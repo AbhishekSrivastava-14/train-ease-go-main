@@ -40,7 +40,7 @@ To develop a secure and efficient railway ticket booking system that enables use
 - Database: MongoDB / MySQL  
 - Version Control: Git & GitHub  
 
-*(You can modify this section according to your actual tech stack)*
+
 
 ---
 
